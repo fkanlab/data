@@ -1,0 +1,2 @@
+# Description
+This is a sample data set. It contains a data set of Fluoirde in water sources as measured by [Caddisfly](http://caddisfly.ternup.com). The data was collected during a field test at Jhabua, Madhya Pradesh. At the time of data collection, the kit was under active development.
