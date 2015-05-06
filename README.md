@@ -8,10 +8,10 @@ Each data set is contained in its own directory with the following structure
         [dir]csv
         [dir]geojson
         [dir]metadata
-            contributors
-            license
-            colunmns
-            file_list
-            description
+            contributors.md
+            license.md
+            colunmns.md
+            file_list.md
+            description.md
 
 metadata/file_list will contain the file names in the respective directories.
