@@ -3,13 +3,15 @@ This project collects the open data resources of the [Fluoride Knowledge and Act
 
 Each data set is contained in its own directory with the following structure
 
-    data_set_name
-        original_data_set
-        csv
-        geojson
-        metadata
+    [dir]data_set_name
+        [dir]original_data_set
+        [dir]csv
+        [dir]geojson
+        [dir]metadata
             contributors
             license
             colunmns
+            file_list
             description
 
+metadata/file_list will contain the file names in the respective directories.
