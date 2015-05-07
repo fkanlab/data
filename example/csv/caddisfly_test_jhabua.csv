@@ -1,4 +1,4 @@
-Submission Date,Name of  the Gram Panchayat,Point name,lattitude,longitude,elevation,Fluoride Content - FLUOR,Sample ID,Select the drinking water source
+date,village_name,point_name,lat,lon,ele,fluoride,sample_id,source_type
 08-10-2014 09:11:32 UTC,umer phalya,mangala kalika borewell,22.77621194,73.94775477,145,1.1,up04,Tube Well or Bore Hole
 08-10-2014 08:50:21 UTC,umer phalya,moolabhai damabhai patel,22.7778302,73.93806473,120,0.62,up02,
 08-10-2014 08:45:22 UTC,umer phalya,handpump nfield,22.77773203,73.93822673,152,1.12,up01,Hand pump
