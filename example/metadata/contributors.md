@@ -9,3 +9,6 @@ The data gathering exercise was facilitated by the [INREM Foundation](http://inr
 
 ## Fluoride Knowledge and Action Network
 The exercise was carried out under the aegis of the [Fluoride Knowledge and Action Network](http://fluorideindia.org)
+
+## Parinitha P and Samudyatha R
+Students of St. Joseph's College of Arts and Science, Bangalore, have helped with organizing this data set and putting it up on Github.
