@@ -1,1 +1,348 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[73.94775477,22.77621194]},"properties":{"date":"08-10-2014 09:11:32 UTC","village_name":"umer phalya","point_name":"mangala kalika borewell","ele":"145","fluoride":"1.1","sample_id":"up04","source_type":"Tube Well or Bore Hole"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[73.93806473,22.7778302]},"properties":{"date":"08-10-2014 08:50:21 UTC","village_name":"umer phalya","point_name":"moolabhai damabhai patel","ele":"120","fluoride":"0.62","sample_id":"up02","source_type":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[73.93822673,22.77773203]},"properties":{"date":"08-10-2014 08:45:22 UTC","village_name":"umer phalya","point_name":"handpump nfield","ele":"152","fluoride":"1.12","sample_id":"up01","source_type":"Hand pump"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[73.96771483,22.77817834]},"properties":{"date":"08-10-2014 08:01:15 UTC","village_name":"antela","point_name":"handpump near hostel","ele":"187","fluoride":"0.8","sample_id":"an04","source_type":"Hand pump"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[73.96884731,22.77885796]},"properties":{"date":"08-10-2014 07:47:06 UTC","village_name":"antela","point_name":"handpump behind school","ele":"192","fluoride":"0.8","sample_id":"an03","source_type":"Hand pump"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[73.96930397,22.77856094]},"properties":{"date":"08-10-2014 07:35:38 UTC","village_name":"deogadh baria","point_name":"handpump","ele":"173","fluoride":"0.76","sample_id":"an02","source_type":"Hand pump"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[73.969252,22.77862698]},"properties":{"date":"08-10-2014 07:22:11 UTC","village_name":"antela","point_name":"handpump near boy's hostel","ele":"180","fluoride":"0.8","sample_id":"an01","source_type":"Hand pump"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[74.74596313,22.62721558]},"properties":{"date":"07-10-2014 10:48:34 UTC","village_name":"dhamoi","point_name":"peepla phalya_near dilip house","ele":"397","fluoride":"3.0","sample_id":"d01","source_type":"Hand pump"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[74.74609014,22.62678851]},"properties":{"date":"07-10-2014 10:36:18 UTC","village_name":"dhamoi","point_name":"peepla phalya-near dilip house","ele":"386","fluoride":"2.84","sample_id":"d01","source_type":"Hand pump"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[74.67037896,22.60862985]},"properties":{"date":"07-10-2014 08:11:34 UTC","village_name":"narvalli","point_name":"Bharat singh well","ele":"366","fluoride":"0.5","sample_id":"n008","source_type":"Protected Dug Well"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[74.67355118,22.60865537]},"properties":{"date":"07-10-2014 07:55:56 UTC","village_name":"narvalli","point_name":"kishan well","ele":"368","fluoride":"0.2","sample_id":"n07","source_type":"Protected Dug Well"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[74.6725932,22.60766203]},"properties":{"date":"07-10-2014 07:30:39 UTC","village_name":"narvalli","point_name":"ramesh singh well","ele":"358","fluoride":"0.0","sample_id":"n06","source_type":"Unprotected Dug Well"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[74.67199149,22.60852269]},"properties":{"date":"07-10-2014 07:13:00 UTC","village_name":"narvalli","point_name":"ramesh singh pump x2","ele":"374","fluoride":"1.44","sample_id":"n05","source_type":"Hand pump"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[74.67189882,22.60851348]},"properties":{"date":"07-10-2014 07:09:14 UTC","village_name":"narvalli","point_name":"ramesh singh","ele":"360","fluoride":"2.78","sample_id":"n05","source_type":"Hand pump"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[74.67090068,22.60714638]},"properties":{"date":"07-10-2014 06:54:21 UTC","village_name":"narvalli","point_name":"raghu singh pump x2","ele":"369","fluoride":"1.84","sample_id":"n04","source_type":"Hand pump"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[74.67086343,22.60712528]},"properties":{"date":"07-10-2014 06:49:58 UTC","village_name":"narvalli","point_name":"pump raghu singh","ele":"359","fluoride":"2.8","sample_id":"n04","source_type":"Hand pump"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[74.66945023,22.6057707]},"properties":{"date":"07-10-2014 06:29:50 UTC","village_name":"narvalli","point_name":"pump gamar singh x4","ele":"380","fluoride":"1.76","sample_id":"n03","source_type":"Hand pump"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[74.66941008,22.60575708]},"properties":{"date":"07-10-2014 06:21:03 UTC","village_name":"narvalli","point_name":"pump gamar singh x2","ele":"361","fluoride":"2.66","sample_id":"n03","source_type":"Hand pump"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[74.66935045,22.60569503]},"properties":{"date":"07-10-2014 06:14:03 UTC","village_name":"narvalli","point_name":"pump gumar singh","ele":"364","fluoride":"3.0","sample_id":"n03","source_type":"Hand pump"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[74.67107785,22.60527343]},"properties":{"date":"07-10-2014 05:57:02 UTC","village_name":"narvalli","point_name":"pumpinfield","ele":"373","fluoride":"0.5","sample_id":"n002","source_type":"Hand pump"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[74.67004532,22.60448142]},"properties":{"date":"07-10-2014 05:45:44 UTC","village_name":"narvalli","point_name":"handpump 2","ele":"336","fluoride":"1.9","sample_id":"n01","source_type":"Hand pump"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[74.67014776,22.60453761]},"properties":{"date":"07-10-2014 05:31:19 UTC","village_name":"narvalli","point_name":"handpump","ele":"362","fluoride":"2.88","sample_id":"n01","source_type":"Hand pump"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[74.25044626,22.93456333]},"properties":{"date":"06-10-2014 14:43:53 UTC","village_name":"dahod","point_name":"Dahod 2","ele":"218","fluoride":"0.14","sample_id":"dhd 002","source_type":""}}]}
+{ "features" : [ { "geometry" : { "coordinates" : [ 73.947754770000003,
+                22.77621194
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "08-10-2014 09:11:32 UTC",
+            "ele" : "145",
+            "fluoride" : "1.1",
+            "point_name" : "mangala kalika borewell",
+            "sample_id" : "up04",
+            "source_type" : "Tube Well or Bore Hole",
+            "village_name" : "umer phalya"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 73.938064729999994,
+                22.7778302
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "08-10-2014 08:50:21 UTC",
+            "ele" : "120",
+            "fluoride" : "0.62",
+            "point_name" : "moolabhai damabhai patel",
+            "sample_id" : "up02",
+            "source_type" : "",
+            "village_name" : "umer phalya"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 73.938226729999997,
+                22.777732029999999
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "08-10-2014 08:45:22 UTC",
+            "ele" : "152",
+            "fluoride" : "1.12",
+            "point_name" : "handpump nfield",
+            "sample_id" : "up01",
+            "source_type" : "Hand pump",
+            "village_name" : "umer phalya"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 73.967714830000006,
+                22.77817834
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "08-10-2014 08:01:15 UTC",
+            "ele" : "187",
+            "fluoride" : "0.8",
+            "point_name" : "handpump near hostel",
+            "sample_id" : "an04",
+            "source_type" : "Hand pump",
+            "village_name" : "antela"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 73.968847310000001,
+                22.77885796
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "08-10-2014 07:47:06 UTC",
+            "ele" : "192",
+            "fluoride" : "0.8",
+            "point_name" : "handpump behind school",
+            "sample_id" : "an03",
+            "source_type" : "Hand pump",
+            "village_name" : "antela"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 73.969303969999999,
+                22.778560939999998
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "08-10-2014 07:35:38 UTC",
+            "ele" : "173",
+            "fluoride" : "0.76",
+            "point_name" : "handpump",
+            "sample_id" : "an02",
+            "source_type" : "Hand pump",
+            "village_name" : "deogadh baria"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 73.969251999999997,
+                22.778626979999999
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "08-10-2014 07:22:11 UTC",
+            "ele" : "180",
+            "fluoride" : "0.8",
+            "point_name" : "handpump near boy's hostel",
+            "sample_id" : "an01",
+            "source_type" : "Hand pump",
+            "village_name" : "antela"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 74.745963130000007,
+                22.627215580000001
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "07-10-2014 10:48:34 UTC",
+            "ele" : "397",
+            "fluoride" : "3.0",
+            "point_name" : "peepla phalya_near dilip house",
+            "sample_id" : "d01",
+            "source_type" : "Hand pump",
+            "village_name" : "dhamoi"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 74.746090140000007,
+                22.626788510000001
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "07-10-2014 10:36:18 UTC",
+            "ele" : "386",
+            "fluoride" : "2.84",
+            "point_name" : "peepla phalya-near dilip house",
+            "sample_id" : "d01",
+            "source_type" : "Hand pump",
+            "village_name" : "dhamoi"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 74.670378959999994,
+                22.60862985
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "07-10-2014 08:11:34 UTC",
+            "ele" : "366",
+            "fluoride" : "0.5",
+            "point_name" : "Bharat singh well",
+            "sample_id" : "n008",
+            "source_type" : "Protected Dug Well",
+            "village_name" : "narvalli"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 74.673551180000004,
+                22.608655370000001
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "07-10-2014 07:55:56 UTC",
+            "ele" : "368",
+            "fluoride" : "0.2",
+            "point_name" : "kishan well",
+            "sample_id" : "n07",
+            "source_type" : "Protected Dug Well",
+            "village_name" : "narvalli"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 74.672593199999994,
+                22.60766203
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "07-10-2014 07:30:39 UTC",
+            "ele" : "358",
+            "fluoride" : "0.0",
+            "point_name" : "ramesh singh well",
+            "sample_id" : "n06",
+            "source_type" : "Unprotected Dug Well",
+            "village_name" : "narvalli"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 74.671991489999996,
+                22.608522690000001
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "07-10-2014 07:13:00 UTC",
+            "ele" : "374",
+            "fluoride" : "1.44",
+            "point_name" : "ramesh singh pump x2",
+            "sample_id" : "n05",
+            "source_type" : "Hand pump",
+            "village_name" : "narvalli"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 74.671898819999996,
+                22.608513479999999
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "07-10-2014 07:09:14 UTC",
+            "ele" : "360",
+            "fluoride" : "2.78",
+            "point_name" : "ramesh singh",
+            "sample_id" : "n05",
+            "source_type" : "Hand pump",
+            "village_name" : "narvalli"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 74.670900680000003,
+                22.60714638
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "07-10-2014 06:54:21 UTC",
+            "ele" : "369",
+            "fluoride" : "1.84",
+            "point_name" : "raghu singh pump x2",
+            "sample_id" : "n04",
+            "source_type" : "Hand pump",
+            "village_name" : "narvalli"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 74.670863429999997,
+                22.607125280000002
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "07-10-2014 06:49:58 UTC",
+            "ele" : "359",
+            "fluoride" : "2.8",
+            "point_name" : "pump raghu singh",
+            "sample_id" : "n04",
+            "source_type" : "Hand pump",
+            "village_name" : "narvalli"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 74.669450229999995,
+                22.605770700000001
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "07-10-2014 06:29:50 UTC",
+            "ele" : "380",
+            "fluoride" : "1.76",
+            "point_name" : "pump gamar singh x4",
+            "sample_id" : "n03",
+            "source_type" : "Hand pump",
+            "village_name" : "narvalli"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 74.669410080000006,
+                22.60575708
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "07-10-2014 06:21:03 UTC",
+            "ele" : "361",
+            "fluoride" : "2.66",
+            "point_name" : "pump gamar singh x2",
+            "sample_id" : "n03",
+            "source_type" : "Hand pump",
+            "village_name" : "narvalli"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 74.669350449999996,
+                22.60569503
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "07-10-2014 06:14:03 UTC",
+            "ele" : "364",
+            "fluoride" : "3.0",
+            "point_name" : "pump gumar singh",
+            "sample_id" : "n03",
+            "source_type" : "Hand pump",
+            "village_name" : "narvalli"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 74.671077850000003,
+                22.60527343
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "07-10-2014 05:57:02 UTC",
+            "ele" : "373",
+            "fluoride" : "0.5",
+            "point_name" : "pumpinfield",
+            "sample_id" : "n002",
+            "source_type" : "Hand pump",
+            "village_name" : "narvalli"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 74.67004532,
+                22.604481419999999
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "07-10-2014 05:45:44 UTC",
+            "ele" : "336",
+            "fluoride" : "1.9",
+            "point_name" : "handpump 2",
+            "sample_id" : "n01",
+            "source_type" : "Hand pump",
+            "village_name" : "narvalli"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 74.670147760000006,
+                22.604537610000001
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "07-10-2014 05:31:19 UTC",
+            "ele" : "362",
+            "fluoride" : "2.88",
+            "point_name" : "handpump",
+            "sample_id" : "n01",
+            "source_type" : "Hand pump",
+            "village_name" : "narvalli"
+          },
+        "type" : "Feature"
+      },
+      { "geometry" : { "coordinates" : [ 74.250446260000004,
+                22.93456333
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "date" : "06-10-2014 14:43:53 UTC",
+            "ele" : "218",
+            "fluoride" : "0.14",
+            "point_name" : "Dahod 2",
+            "sample_id" : "dhd 002",
+            "source_type" : "",
+            "village_name" : "dahod"
+          },
+        "type" : "Feature"
+      }
+    ],
+  "type" : "FeatureCollection"
+}
