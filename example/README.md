@@ -1,1 +1,1 @@
-An example dataset with a recommended structure.
+An example dataset with the recommended structure.
