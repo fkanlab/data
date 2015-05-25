@@ -6,6 +6,7 @@ All data contributed here is made public. Do not add data here that has any priv
 Each data set is contained in its own directory with the following structure
 
     [dir]data_set_name
+        README.md
         [dir]original_data_set
         [dir]csv
         [dir]geojson
@@ -17,6 +18,8 @@ Each data set is contained in its own directory with the following structure
             description.md
 
 CSV files are derived from the original dataset and may contain a subset of the columns of the original data set. The geojson files are derived from the CSV.
+
+``README.md`` has a one or two paragraph summary of the data set.
 
 ``metadata/contributors.md`` has a list of contributors and funders for this data set.
 
