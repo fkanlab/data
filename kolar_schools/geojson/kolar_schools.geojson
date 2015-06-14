@@ -1,0 +1,176 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.883663,
+          13.283191
+        ]
+      },
+      "properties": {
+        "sl": "1",
+        "village": "Hoskere",
+        "school_strength": "20",
+        "village_population": "330",
+        "school_type": "LPS",
+        "tds": "373",
+        "fluoride": "<1.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.30158,
+          13.175086
+        ]
+      },
+      "properties": {
+        "sl": "2",
+        "village": "Meleri",
+        "school_strength": "31",
+        "village_population": "700",
+        "school_type": "LPS",
+        "tds": "316",
+        "fluoride": "~1.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.006565,
+          13.195695
+        ]
+      },
+      "properties": {
+        "sl": "3",
+        "village": "Bheemapura",
+        "school_strength": "30",
+        "village_population": "600",
+        "school_type": "Z",
+        "tds": "316",
+        "fluoride": "~1.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.291255,
+          13.169692
+        ]
+      },
+      "properties": {
+        "sl": "4",
+        "village": "Hanamanahalli",
+        "school_strength": "94",
+        "village_population": "",
+        "school_type": "1-7th class",
+        "tds": "498",
+        "fluoride": ">2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.272236,
+          13.168251
+        ]
+      },
+      "properties": {
+        "sl": "5",
+        "village": "Nalluru",
+        "school_strength": "57",
+        "village_population": "",
+        "school_type": "",
+        "tds": "280",
+        "fluoride": "~1.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.344572,
+          13.1847
+        ]
+      },
+      "properties": {
+        "sl": "6",
+        "village": "Doddagurki",
+        "school_strength": "58",
+        "village_population": "1200",
+        "school_type": "",
+        "tds": "296",
+        "fluoride": "~1.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.312779,
+          13.227883
+        ]
+      },
+      "properties": {
+        "sl": "7",
+        "village": "Mudiyanur",
+        "school_strength": "93",
+        "village_population": "924",
+        "school_type": "HPS",
+        "tds": "275",
+        "fluoride": ">2.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.00153,
+          13.043603
+        ]
+      },
+      "properties": {
+        "sl": "8",
+        "village": "Agrahara",
+        "school_strength": "106",
+        "village_population": "",
+        "school_type": "HSS",
+        "tds": "484",
+        "fluoride": "<1.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.366191,
+          13.257025
+        ]
+      },
+      "properties": {
+        "sl": "9",
+        "village": "Mandikal",
+        "school_strength": "46",
+        "village_population": "200",
+        "school_type": "LPS + 15 play school",
+        "tds": "395",
+        "fluoride": "~1.5"
+      }
+    }
+  ]
+}

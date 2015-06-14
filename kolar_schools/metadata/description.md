@@ -1,0 +1,1 @@
+This data was gathered by Priyanka Jain during an informal survey of some schools in Kolar. The data was collected sometime in 2015 using a Xylenol Orange based field kit.

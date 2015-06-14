@@ -1,0 +1,10 @@
+sl,village,school_strength,village_population,school_type,tds,fluoride,lat,lon
+1,Hoskere,20,330,LPS,373,<1.5,13.283191,77.883663
+2,Meleri,31,700,LPS,316,~1.5,13.175086,78.30158
+3,Bheemapura,30,600,Z,316,~1.5,13.195695,78.006565
+4,Hanamanahalli,94,,1-7th class,498,>2,13.169692,78.291255
+5,Nalluru,57,,,280,~1.5,13.168251,78.272236
+6,Doddagurki,58,1200,,296,~1.5,13.1847,78.344572
+7,Mudiyanur,93,924,HPS,275,>2.5,13.227883,78.312779
+8,Agrahara,106,,HSS,484,<1.5,13.043603,78.00153
+9,Mandikal,46,200,LPS + 15 play school,395,~1.5,13.257025,78.366191
