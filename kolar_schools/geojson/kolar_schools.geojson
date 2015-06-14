@@ -17,7 +17,7 @@
         "village_population": "330",
         "school_type": "LPS",
         "tds": "373",
-        "fluoride": "<1.5"
+        "fluoride": "< 1.5"
       }
     },
     {
@@ -36,7 +36,7 @@
         "village_population": "700",
         "school_type": "LPS",
         "tds": "316",
-        "fluoride": "~1.5"
+        "fluoride": "~ 1.5"
       }
     },
     {
@@ -55,7 +55,7 @@
         "village_population": "600",
         "school_type": "Z",
         "tds": "316",
-        "fluoride": "~1.5"
+        "fluoride": "~ 1.5"
       }
     },
     {
@@ -74,7 +74,7 @@
         "village_population": "",
         "school_type": "1-7th class",
         "tds": "498",
-        "fluoride": ">2"
+        "fluoride": "> 2"
       }
     },
     {
@@ -93,7 +93,7 @@
         "village_population": "",
         "school_type": "",
         "tds": "280",
-        "fluoride": "~1.5"
+        "fluoride": "~ 1.5"
       }
     },
     {
@@ -112,7 +112,7 @@
         "village_population": "1200",
         "school_type": "",
         "tds": "296",
-        "fluoride": "~1.5"
+        "fluoride": "~ 1.5"
       }
     },
     {
@@ -131,7 +131,7 @@
         "village_population": "924",
         "school_type": "HPS",
         "tds": "275",
-        "fluoride": ">2.5"
+        "fluoride": "> 2.5"
       }
     },
     {
@@ -150,7 +150,7 @@
         "village_population": "",
         "school_type": "HSS",
         "tds": "484",
-        "fluoride": "<1.5"
+        "fluoride": "< 1.5"
       }
     },
     {
@@ -169,7 +169,7 @@
         "village_population": "200",
         "school_type": "LPS + 15 play school",
         "tds": "395",
-        "fluoride": "~1.5"
+        "fluoride": "~ 1.5"
       }
     }
   ]
